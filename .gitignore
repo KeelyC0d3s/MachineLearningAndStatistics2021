@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+test1.html
+test2.html
+variables_summary.txt
